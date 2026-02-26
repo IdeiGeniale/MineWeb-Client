@@ -4,6 +4,12 @@ A browser-based voxel sandbox game inspired by Minecraft, built as a single HTML
 
 ---
 
+## How to use
+
+If you want to use the version without the three.module.js file, you can go to the ONLINE-LIBRARY folder.
+
+---
+
 ## Features
 
 - **Procedural world generation** using seeded 3D Perlin noise with 3 distinct biomes
