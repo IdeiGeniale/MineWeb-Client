@@ -173,4 +173,4 @@ The world radius is defined by `WRAD = 38` in the source. Increasing this value 
 
 ## License
 
-This project is provided as-is for personal and educational use.
+This project can be used freely without licensing or contacting the author for personal and educational purposes.
