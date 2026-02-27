@@ -10,6 +10,12 @@ If you want to use the version without the three.module.js file, you can downloa
 
 ---
 
+## Status
+
+This is a remake of MineWeb 1. It is still in progress, and MineWeb 1 is basically a finished project to me. I will no longer be working on MineWeb 1. I will make make MineWeb 1 open-source and contributions are happily accepted.
+
+---
+
 ## Features
 
 - **Procedural world generation** using seeded 3D Perlin noise with 3 distinct biomes
