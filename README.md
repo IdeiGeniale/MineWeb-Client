@@ -14,6 +14,9 @@ If you want to use the version without the three.module.js file, you can downloa
 
 This is a remake of MineWeb 1. It is still in progress, and MineWeb 1 is basically a finished project to me. I will no longer be working on MineWeb 1. I will make make MineWeb 1 open-source and contributions are happily accepted.
 
+Frequently asked questions:
+Is MineWeb 1 getting discontinued? Yes, it is being discontinued. I will make it open-source and contributions are accepted. MineWeb 1 feels finished to me.
+
 ---
 
 ## Features
