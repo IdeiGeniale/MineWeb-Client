@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="MineWeb.png" width="300" alt="MineWeb logo"/>
+</p>
+
 # ⛏ MineWeb
 
 A browser-based voxel sandbox game inspired by Minecraft, built as a single HTML file using [Three.js](https://threejs.org/). No server required — just open and play.
