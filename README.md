@@ -10,7 +10,7 @@ A browser-based voxel sandbox game inspired by Minecraft, built as a single HTML
 
 ## How to use
 
-If you want to use the version without the three.module.js file, you can download the com.ideigeniale.mineweb-client.latest file.
+If you want to use the version without the three.module.js file, you can find it in the "Releases" tab where the latest version is.
 
 ---
 
